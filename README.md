@@ -7,6 +7,18 @@ Prior to saving any `controls.cfg` file, a back-up file called `controls.cfg.bk`
 
 [See the releases page for the latest executables.](https://github.com/jackhumbert/iracing-controls-editor-app/releases)
 
+## Features
+
+* Modify configuration parameters
+* Modify control mappings
+* Replace all device GUIDs within a file
+* Visualize joystick axis & button states
+* Modify control mapping types
+* Edit control mapping attributes
+  * Axis device, number, inversion
+  * Button device, number
+  * Keyboard modifiers, key
+
 ## Screenshots
 
 ![preview_1](https://github.com/user-attachments/assets/17709c76-a341-475d-b740-76cc24eaeba1)
